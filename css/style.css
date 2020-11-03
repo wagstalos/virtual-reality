@@ -378,7 +378,6 @@ footer{
     background-color: var(--dark);
 }
 
-
 /* mobile */
 @media only screen and (max-width: 600px) {
     #home h1 {
