@@ -5,8 +5,29 @@ html
 css
 js
 
-##framework CSS
-bt4
+#
+framework CSS
+bootstrap4
+
+#plugins utilizados
+
+*Animações
+https://michalsnik.github.io/aos/
+
+*slider
+https://swiperjs.com/
+
+*particules
+https://vincentgarreau.com/particles.js/
+
+*modal video
+https://appleple.github.io/modal-video/
+
+*efeito 3D
+https://gijsroge.github.io/tilt.js/
+
+
+
 
 
 Site
