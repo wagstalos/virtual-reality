@@ -1,5 +1,3 @@
-# virtual-reality
-
 <h1 align="center">Projeto virtual-reality </h1>
 
 <h1 align="center">
