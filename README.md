@@ -30,9 +30,8 @@ Hi, I'm Wagner Paulo, professional in the area of ​​Web and Games Developmen
 - [x] JS
 - [x] BT4
 
-Para rodar você precisa usar
+Para rodar você precisa usar {To run you need to use}
 
-#
 framework CSS
 bootstrap4
 
@@ -52,8 +51,6 @@ https://appleple.github.io/modal-video/
 
 *efeito 3D
 https://gijsroge.github.io/tilt.js/
-
-
 
 
 
