@@ -1,14 +1,14 @@
 # virtual-reality
 
-<h1 align="center">Projeto Prof Manu </h1>
+<h1 align="center">Projeto virtual-reality </h1>
 
 <h1 align="center">
-    <a href="https://profmanu.com/">🔗 link  do projeto</a>
+    <a href="https://wagstalos.github.io/virtual-reality/">🔗 link  do projeto</a>
 </h1>
 
 ## Descrição do Projeto
 
-<p align="center">Olá, sou Wagner Paulo, profissional da área Desenvolvimento Web e Games, formado em Design Gráfico (UNIP) e Desenvolvimento Jogos Digitais(ETEC). Apaixonado por tecnologias, trabalho com produção de sites, aplicativos, PWA e jogos digitais com foco para o ensino EaD, neste projeto eu criei um site para uma professora de espanhol.</p>
+<p align="center">Olá, sou Wagner Paulo, profissional da área Desenvolvimento Web e Games, formado em Design Gráfico (UNIP) e Desenvolvimento Jogos Digitais(ETEC). Apaixonado por tecnologias, trabalho com produção de sites, aplicativos, PWA e jogos digitais com foco para o ensino EaD, neste projeto eu criei um site para uma virtual-reality.</p>
 
 <h1 align="center">
 <img src="https://img.shields.io/static/v1?label=Site&message=MAnu&color=3498db&style=for-the-badge&logo="/>
