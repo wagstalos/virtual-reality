@@ -12,7 +12,7 @@
 
 <h1 align="center">
 <img src="https://img.shields.io/static/v1?label=Site&message=Virtual Reality&color=3498db&style=for-the-badge&logo="/>
-<img src="https://img.shields.io/static/v1?label=Status&message=concluído&color=2ecc71f&style=for-the-badge&logo="/>
+<img src="https://img.shields.io/static/v1?label=Status&message=ok&color=2ecc71f&style=for-the-badge&logo="/>
 </h1>
 
    <img src="https://repository-images.githubusercontent.com/308917194/784cb734-630c-4595-9f96-16d42ff5d71a" alt="">
