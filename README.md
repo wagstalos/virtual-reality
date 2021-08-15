@@ -9,7 +9,7 @@
 <p>Olá, sou Wagner Paulo, profissional da área Desenvolvimento Web e Games, formado em Design Gráfico (UNIP) e Desenvolvimento Jogos Digitais(ETEC). Apaixonado por tecnologias, trabalho com produção de sites, aplicativos, PWA e jogos digitais com foco para o ensino EaD, neste projeto eu criei um site para uma virtual-reality.</p>
 
 <p>
-Hi, I'm Wagner Paulo, professional in the area of ​​Web and Games Development, graduated in Graphic Design (UNIP) and Digital Games Development (ETEC). Passionate about technologies, I work with the production of websites, applications, PWA and digital games with a focus on EaD education, in this project I created a website for a virtual reality.
+{Hi, I'm Wagner Paulo, professional in the area of ​​Web and Games Development, graduated in Graphic Design (UNIP) and Digital Games Development (ETEC). Passionate about technologies, I work with the production of websites, applications, PWA and digital games with a focus on EaD education, in this project I created a website for a virtual reality.}
 </p>
 
 <h1 align="center">
