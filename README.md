@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/static/v1?label=Status&message=ok&color=2ecc71f&style=for-the-badge&logo="/>
 </h1>
 
-   <img src="https://repository-images.githubusercontent.com/308917194/784cb734-630c-4595-9f96-16d42ff5d71a" alt="">
+   <img src="https://github.com/wagstalos/virtual-reality/blob/master/img/mockupVirtual.png" alt="">
 
 
 
